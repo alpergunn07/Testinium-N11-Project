@@ -59,7 +59,7 @@ public class SearchPage extends BasePage implements SearchElementValues {
         String secondPriceTxt = driver.findElement(basketPrice.getBy()).getText();
         LOGGER.info("Sepettekı ürün fıyatı alındı.");
         System.out.println("İkinci Fiyat :" + secondPriceTxt);
-        Assert.assertEquals("", firstPrice, firstPrice);
+        Assert.assertEquals("", firstPrice, secondPriceTxt);
         LOGGER.info("Ürün ve sepettekı fıyat eşıt olduğu doğrulandı");
     }
 

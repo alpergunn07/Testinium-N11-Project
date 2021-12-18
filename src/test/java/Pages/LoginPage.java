@@ -18,10 +18,12 @@ public class LoginPage extends BasePage implements LoginElementValues {
         String actualTitle;
         actualTitle = driver.getTitle();
         Assert.assertTrue("Login sayfasında değilsiniz", actualTitle.equals("Giriş Yap - n11.com"));
+        LOGGER.info("Login sayfasi basariyla acildi.");
     }
 
     public void login(){
         waitForElementAndClick(login);
+        goToLoginPage();
         waitForElementAndSendKeys(emailTxt,email);
         waitForElementAndSendKeys(passwordText,pass);
         waitForElementAndClick(loginBtn);

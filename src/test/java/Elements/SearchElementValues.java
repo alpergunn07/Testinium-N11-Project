@@ -13,7 +13,7 @@ public interface SearchElementValues {
     public Element price = new Element(By.xpath("//*[@class='newPrice']/ins"));
     public Element goToBasket = new Element(By.xpath("//*[@class='btn btnBlack btnGoBasket']"));
     public Element quantity = new Element(By.xpath("//*[@class='spinnerUp spinnerArrow']"));
-    public Element basketPrice = new Element(By.xpath("//*[@class='newPrice']/ins"));
+    public Element basketPrice = new Element(By.xpath("//*[@class='priceArea']"));
     public Element clearBasket = new Element(By.xpath("//*[@class=\"removeProd svgIcon svgIcon_trash\"]"));
     public Element cleanBasketCheck = new Element(By.xpath("//*[@class='cartEmptyText']"));
 

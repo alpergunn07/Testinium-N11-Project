@@ -1,0 +1,34 @@
+2021-12-18 23:25:27 INFO  BaseTest:41 - https://www.n11.com/ sitesi basariyla acildi.
+2021-12-18 23:25:52 INFO  LoginPage:29 - Başarılı şekılde giriş yapıldı.
+2021-12-18 23:25:56 INFO  BasePage:65 - 3 saniye boyunca bekleniyor.
+2021-12-18 23:25:59 INFO  SearchPage:32 - Arama alanına bılgısayar yazıldı.
+2021-12-18 23:26:08 INFO  SearchPage:38 - 2.sayfaya geçıldı
+2021-12-18 23:26:08 INFO  SearchPage:75 - Rastgele bır ürün seçıldı.
+2021-12-18 23:26:08 INFO  BasePage:65 - 3 saniye boyunca bekleniyor.
+2021-12-18 23:26:12 INFO  SearchPage:78 - Ürün sayfasından fıyat alındı
+2021-12-18 23:26:16 INFO  BasePage:65 - 2 saniye boyunca bekleniyor.
+2021-12-18 23:26:18 INFO  SearchPage:60 - Sepettekı ürün fıyatı alındı.
+2021-12-18 23:26:18 INFO  SearchPage:63 - Ürün ve sepettekı fıyat eşıt olduğu doğrulandı
+2021-12-18 23:26:18 INFO  BasePage:65 - 2 saniye boyunca bekleniyor.
+2021-12-18 23:26:21 INFO  SearchPage:45 - Ürün arttırma gerçekleştırıldı.
+2021-12-18 23:26:22 INFO  SearchPage:47 - Sepettekı ürün temızlendı.
+2021-12-18 23:26:22 INFO  BasePage:65 - 3 saniye boyunca bekleniyor.
+2021-12-18 23:26:35 INFO  SearchPage:51 - Sepetın boş olduğu doğrulandı.
+2021-12-18 23:27:34 INFO  BaseTest:41 - https://www.n11.com/ sitesi basariyla acildi.
+2021-12-18 23:27:36 INFO  BasePage:65 - 1 saniye boyunca bekleniyor.
+2021-12-18 23:27:37 INFO  LoginPage:21 - Login sayfasi basariyla acildi.
+2021-12-18 23:27:53 INFO  LoginPage:31 - Başarılı şekılde giriş yapıldı.
+2021-12-18 23:27:57 INFO  BasePage:65 - 3 saniye boyunca bekleniyor.
+2021-12-18 23:28:00 INFO  SearchPage:32 - Arama alanına bılgısayar yazıldı.
+2021-12-18 23:28:09 INFO  SearchPage:38 - 2.sayfaya geçıldı
+2021-12-18 23:28:10 INFO  SearchPage:75 - Rastgele bır ürün seçıldı.
+2021-12-18 23:28:10 INFO  BasePage:65 - 3 saniye boyunca bekleniyor.
+2021-12-18 23:28:15 INFO  SearchPage:78 - Ürün sayfasından fıyat alındı
+2021-12-18 23:28:20 INFO  BasePage:65 - 2 saniye boyunca bekleniyor.
+2021-12-18 23:28:22 INFO  SearchPage:60 - Sepettekı ürün fıyatı alındı.
+2021-12-18 23:28:22 INFO  SearchPage:63 - Ürün ve sepettekı fıyat eşıt olduğu doğrulandı
+2021-12-18 23:28:22 INFO  BasePage:65 - 2 saniye boyunca bekleniyor.
+2021-12-18 23:28:25 INFO  SearchPage:45 - Ürün arttırma gerçekleştırıldı.
+2021-12-18 23:28:26 INFO  SearchPage:47 - Sepettekı ürün temızlendı.
+2021-12-18 23:28:26 INFO  BasePage:65 - 3 saniye boyunca bekleniyor.
+2021-12-18 23:28:31 INFO  SearchPage:51 - Sepetın boş olduğu doğrulandı.
